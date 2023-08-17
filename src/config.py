@@ -1,0 +1,1 @@
+REPLAY_ROOT = "/home/nico/projects/wotreplay_parser/replays"
